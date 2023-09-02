@@ -1,0 +1,48 @@
+    1  history
+    2  cd Documents
+    3  clear
+    4  ls
+    5  cd Programming
+    6  clear
+    7  ls
+    8  mkdir linux-administrator-submission
+    9  cd linux-administrator-submission/
+   10  clear
+   11  code .
+   12  man echo
+   13  cd Documents/Programming/linux-administrator-submission/
+   14  clear
+   15  bash script-zavierferodova.sh 
+   16  clear
+   17  bash script-zavierferodova.sh 
+   18  man echo
+   19  clear
+   20  bash script-zavierferodova.sh 
+   21  ckear
+   22  clear
+   23  ckear
+   24  clear
+   25  bash script-zavierferodova.sh 
+   26  clear
+   27  bash script-zavierferodova.sh 
+   28  clear
+   29  bash script-zavierferodova.sh 
+   30  history
+   31  man df
+   32  df --help
+   33  bash script-zavierferodova.sh 
+   34  clear
+   35  bash script-zavierferodova.sh 
+   36  df --help
+   37  clear
+   38  bash script-zavierferodova.sh 
+   39  free --help
+   40  man free
+   41  bash script-zavierferodova.sh 
+   42  clear
+   43  bash script-zavierferodova.sh 
+   44  clear
+   45  ls
+   46  clear
+   47  history
+   48  history > history-zavierferodova.txt

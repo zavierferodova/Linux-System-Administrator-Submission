@@ -1,0 +1,52 @@
+Agu 23 22:09:13 macbuntu sshd[1058]: Received signal 15; terminating.
+Agu 23 22:09:13 macbuntu systemd[1]: Stopping OpenBSD Secure Shell server...
+Agu 23 22:09:13 macbuntu systemd[1]: ssh.service: Deactivated successfully.
+Agu 23 22:09:13 macbuntu systemd[1]: Stopped OpenBSD Secure Shell server.
+-- Boot 84723c380a45408483b9636594c50dbe --
+Agu 24 14:35:02 macbuntu systemd[1]: Starting OpenBSD Secure Shell server...
+Agu 24 14:35:02 macbuntu sshd[1163]: Server listening on 0.0.0.0 port 22.
+Agu 24 14:35:02 macbuntu sshd[1163]: Server listening on :: port 22.
+Agu 24 14:35:02 macbuntu systemd[1]: Started OpenBSD Secure Shell server.
+Agu 24 15:36:52 macbuntu sshd[1163]: Received signal 15; terminating.
+Agu 24 15:36:52 macbuntu systemd[1]: Stopping OpenBSD Secure Shell server...
+Agu 24 15:36:52 macbuntu systemd[1]: ssh.service: Deactivated successfully.
+Agu 24 15:36:52 macbuntu systemd[1]: Stopped OpenBSD Secure Shell server.
+-- Boot af737e492f47420ab178796467f252d2 --
+Agu 25 06:29:06 macbuntu systemd[1]: Starting OpenBSD Secure Shell server...
+Agu 25 06:29:06 macbuntu sshd[1093]: Server listening on 0.0.0.0 port 22.
+Agu 25 06:29:06 macbuntu systemd[1]: Started OpenBSD Secure Shell server.
+Agu 25 06:29:06 macbuntu sshd[1093]: Server listening on :: port 22.
+Agu 25 06:44:20 macbuntu sshd[1093]: Received signal 15; terminating.
+Agu 25 06:44:20 macbuntu systemd[1]: Stopping OpenBSD Secure Shell server...
+Agu 25 06:44:20 macbuntu systemd[1]: ssh.service: Deactivated successfully.
+Agu 25 06:44:20 macbuntu systemd[1]: Stopped OpenBSD Secure Shell server.
+Agu 25 06:44:20 macbuntu systemd[1]: Starting OpenBSD Secure Shell server...
+Agu 25 06:44:20 macbuntu sshd[7268]: Server listening on 0.0.0.0 port 2000.
+Agu 25 06:44:20 macbuntu sshd[7268]: Server listening on :: port 2000.
+Agu 25 06:44:20 macbuntu systemd[1]: Started OpenBSD Secure Shell server.
+Agu 25 06:54:27 macbuntu sshd[7632]: Connection closed by authenticating user dicoding 192.168.100.15 port 50002 [preauth]
+Agu 25 06:54:27 macbuntu sshd[7634]: Connection closed by authenticating user dicoding 192.168.100.15 port 50003 [preauth]
+Agu 25 06:54:27 macbuntu sshd[7636]: Connection closed by authenticating user dicoding 192.168.100.15 port 50004 [preauth]
+Agu 25 07:00:57 macbuntu sshd[7268]: Received signal 15; terminating.
+Agu 25 07:00:57 macbuntu systemd[1]: Stopping OpenBSD Secure Shell server...
+Agu 25 07:00:57 macbuntu systemd[1]: ssh.service: Deactivated successfully.
+Agu 25 07:00:57 macbuntu systemd[1]: Stopped OpenBSD Secure Shell server.
+Agu 25 07:00:57 macbuntu systemd[1]: Starting OpenBSD Secure Shell server...
+Agu 25 07:00:57 macbuntu sshd[7939]: Server listening on 0.0.0.0 port 2000.
+Agu 25 07:00:57 macbuntu sshd[7939]: Server listening on :: port 2000.
+Agu 25 07:00:57 macbuntu systemd[1]: Started OpenBSD Secure Shell server.
+Agu 25 07:01:07 macbuntu sshd[7941]: Connection closed by authenticating user dicoding 192.168.100.15 port 50008 [preauth]
+Agu 25 07:01:07 macbuntu sshd[7943]: Connection closed by authenticating user dicoding 192.168.100.15 port 50009 [preauth]
+Agu 25 07:01:22 macbuntu sshd[7945]: Accepted password for dicoding from 192.168.100.15 port 50010 ssh2
+Agu 25 07:01:22 macbuntu sshd[7945]: pam_unix(sshd:session): session opened for user dicoding(uid=1002) by (uid=0)
+Agu 25 07:01:22 macbuntu sshd[7945]: pam_unix(sshd:session): session closed for user dicoding
+Agu 25 07:02:04 macbuntu sshd[7939]: Received signal 15; terminating.
+Agu 25 07:02:04 macbuntu systemd[1]: Stopping OpenBSD Secure Shell server...
+Agu 25 07:02:04 macbuntu systemd[1]: ssh.service: Deactivated successfully.
+Agu 25 07:02:04 macbuntu systemd[1]: Stopped OpenBSD Secure Shell server.
+Agu 25 07:02:04 macbuntu systemd[1]: Starting OpenBSD Secure Shell server...
+Agu 25 07:02:04 macbuntu sshd[8376]: Server listening on 0.0.0.0 port 2000.
+Agu 25 07:02:04 macbuntu sshd[8376]: Server listening on :: port 2000.
+Agu 25 07:02:04 macbuntu systemd[1]: Started OpenBSD Secure Shell server.
+Agu 25 07:02:50 macbuntu sshd[8394]: Accepted publickey for dicoding from 192.168.100.15 port 50012 ssh2: RSA SHA256:wlPmIz/dvfE3lQmQRTiB/nul4lQiZeqw1tOlvjZagxA
+Agu 25 07:02:50 macbuntu sshd[8394]: pam_unix(sshd:session): session opened for user dicoding(uid=1002) by (uid=0)
